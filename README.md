@@ -15,9 +15,10 @@ To do this, I use IMDb data to construct dynamic collaboration networks of filmm
 - Phase_1_Tracking_Movie_Directors_Career.ipynb: This notebook details the initial phase of the research, with Python code for identifying of first-time directors and tracking their filmography from 2000 to 2023. This notebook lays the foundation for constructing collaboration networks and analyzing career longevity.
 - [Additional Notebooks]: As the study progresses, subsequent phases of the analysis will be added. These will include network analyses and an exploration into how connections to network brokers influence career longevity of women and men movie directors. 
 
-The analyses and results presented in this repository can be entirely recreated by following the provided Python codes in the Jupyter notebooks. 
+# Reproducibility 
+
+The analyses and results presented in this repository can be entirely recreated by following the provided Python codes in the Jupyter notebooks. Results may vary slightly depending on when the IMDb data is accessed, as it is updated regularly.
 
 # Data Source
-
-The primary data source for this analysis is IMDb's datasets, including 'title.basics', 'title.principals', and 'title.ratings'. These datasets provide comprehensive information about movies, key personnel, and movie ratings.
  
+The primary data source for this project includes the following IMDb's datasets: 'title.basics', 'title.principals', 'title.ratings', and 'name.basics.tsv.gz'. These datasets provide comprehensive information about movies, key personnel, movie ratings, and filmmaker demographics. Additionally, I use data from the US Social Security Administration to predict the gender of filmmakers. 
