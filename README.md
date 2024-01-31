@@ -12,8 +12,9 @@ To do this, I use IMDb data to construct dynamic collaboration networks of filmm
 
 # Notebooks in this Repository:
 
-- Phase_1_Tracking_Movie_Directors_Career.ipynb: This notebook details the initial phase of the research, with Python code for identifying of first-time directors and tracking their filmography from 2000 to 2023. This notebook lays the foundation for constructing collaboration networks and analyzing career longevity.
-- [Additional Notebooks]: As the study progresses, subsequent phases of the analysis will be added. These will include network analyses and an exploration into how connections to network brokers influence career longevity of women and men movie directors. 
+1. Phase_1_Tracking_Movie_Directors_Career.ipynb: This notebook details the initial phase of the research, with Python code for identifying of first-time directors and tracking their filmography from 2000 to 2023. This notebook lays the foundation for constructing collaboration networks and analyzing career longevity.
+2. Phase_2_Constructing_Filmmaker_Network.ipynb: This notebook focuses on constructing dynamic collaboration networks among creative workers in the film industry from 2000 to 2023 and calculating brokerage social capital for everyone in the network, year by year. From there, we can extract the brokerage scores of the collaborators of the directors in our study. 
+- [Additional Notebooks]: As the study progresses, subsequent phases of the analysis will be added. These will include (a) predicting the gender of filmmakers based on their first names, using IMDb data and US Social Security Administration records and (b) survival analysis to explore how connections with network brokers affect the career longevity of both women and men movie directors. 
 
 # Reproducibility 
 

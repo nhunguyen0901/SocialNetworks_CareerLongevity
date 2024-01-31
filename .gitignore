@@ -152,7 +152,5 @@ cython_debug/
 #.idea/
 
 *.csv
-*.py
-Phase_2_Constructing_Filmmaker_Network.ipynb
 Calculate_brokerage.ipynb
 
