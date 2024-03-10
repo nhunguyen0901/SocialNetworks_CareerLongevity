@@ -16,7 +16,6 @@ def calculate_social_capital(year, edges_by_year):
     brokerage_scores = {
         'constraint': nx.constraint(G),
         'effective_size': nx.effective_size(G),
-        'betweenness_centrality': nx.betweenness_centrality(G),
         'local_clustering': nx.clustering(G)
     }
     return year, brokerage_scores

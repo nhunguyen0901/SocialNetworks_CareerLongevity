@@ -152,5 +152,8 @@ cython_debug/
 #.idea/
 
 *.csv
+*.pkl
 Calculate_brokerage.ipynb
-
+Phase_3_Predicting_director_gender.ipynb
+Phase_4_Creating_Time_Varying_and_Time_Invariant_Predictors.ipynb
+Phase_5_Running_Survival_Analysis.qmd
