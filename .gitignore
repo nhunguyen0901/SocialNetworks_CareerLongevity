@@ -154,5 +154,6 @@ cython_debug/
 *.csv
 *.pkl
 Calculate_brokerage.ipynb
-Phase_4_Creating_Time_Varying_and_Time_Invariant_Predictors.ipynb
-Phase_5_Running_Survival_Analysis.qmd
+Phase_4_Building_Time_Series_Data.ipynb
+Phase_5_Constructing_Control_Variables.ipynb
+Phase_6_Running_Survival_Analysis.qmd
