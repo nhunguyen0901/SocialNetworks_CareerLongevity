@@ -173,7 +173,6 @@ cython_debug/
 
 # RStudio files
 .Rproj.user/
-.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -204,6 +203,7 @@ rsconnect/
 
 .Rhistory
 .DS_Store
+WomenLeaders_SocialNetworks.Rproj
 
 *.csv
 *.pkl
