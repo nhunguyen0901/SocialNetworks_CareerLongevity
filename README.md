@@ -1,14 +1,12 @@
-# Social Networks and Women Leaders' Career Longevity
+# Social Networks and Career Longevity
 
-This repository hosts the analyses for an ongoing research project exploring the potential of social networks in promoting career success. Using IMDb data, I trace the evolution of networks over time and examine how these changes influence people's career longevity and productivity. I specifically focus on the different impacts networks have on men and women, offering strategies for crafting more beneficial and equitable professional networks.
-
-This repository will be updated periodically as the research evolves.
+This repository chronicles my ongoing research into the role of social networks in fostering career longevity and productivity. Using IMDb data, I trace the evolution of networks over time and examine how these changes influence people's career longevity and productivity. I specifically focus on the different impacts networks have on men and women, offering strategies for crafting more beneficial and equitable professional networks.
 
 ## Navigating the complexity of large-scale networks
 
-Imagine nearly 5 billion potential connections in a yearly network comprising roughly 100,000 individuals. Over 23 years, this balloons to more than 100 billion potential connections. I find this feature of networks fascinating—as each new individual joins, the possibilities for new links grow exponentially because each newcomer can in theory connect with all the existing members.
+Imagine a network comprising about 100,000 individuals. Annually, this network could potentially foster nearly 5 billion connections, which baloons to over 100 billion across two decades. This staggering complexity stems from two inherent features of networks. First is exponential growth: each time a new individual joins, the network's potential connections expand exponentially; every newcomer brings the possibility to connect with all existing members. Second is constant flux: like the ebb and flow of the ocean, networks are never static; old connections dissolve and new ones emerge continually. 
 
-Another thing I love about networks is that they are constantly changing, with old ties dissolving and new ones forming. To capture these shifts, I've constructed and analyzed 21 sequential network graphs, each spanning a three-year period. Starting from from 2000-2002 data and moving through to 2020-2022, this method allows me to track the changes in people's social capital up to 2023. 
+To capture these shifts, I've constructed and analyzed 21 sequential network graphs. Each graph spans a three-year period, starting from 2000-2002 and stretching to 2020-2022. This methodological approach allows me to track the evolution of social capital up to the year 2023, providing a longitudinal view of how connections impact career trajectories.
 
 ## Notebooks in this Repository:
 
