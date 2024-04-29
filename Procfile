@@ -1,1 +1,0 @@
-web: gunicorn Interactive_app_popular_names:server
