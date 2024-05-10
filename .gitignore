@@ -208,6 +208,7 @@ WomenLeaders_SocialNetworks.Rproj
 *.csv
 *.pkl
 Calculate_brokerage.ipynb
+Phase_5_Incorporating_Network_Variables_to_Time_Series_Data.ipynb
 Phase_6_Constructing_Control_Variables.ipynb
 Phase_7_Running_Survival_Analysis_in_Python.ipynb
 Phase_7_Running_Survival_Analysis.qmd
