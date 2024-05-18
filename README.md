@@ -11,10 +11,12 @@ To capture these shifts, I've constructed and analyzed 21 sequential network gra
 ## Notebooks in this Repository:
 
 1. Phase_1_Tracking_Movie_Directors_Career.ipynb: I identify first-time directors and follow their filmography from 2003 to 2023.
-2. Phase_2_Constructing_Filmmaker_Network.ipynb: I build dynamic collaboration networks within the film industry from 2000 to 2023 and calculate the yearly brokerage social capital for every creative workers in the network using a 3-year moving window.
-3. Phase_3_Predicting_Director_Gender.ipynb: I use directors' first names from IMDb data and U.S. Social Security data to predict gender.
-4. Phase_4_Building_Time_Series_Data.ipynb: I create a dataset that tracks each director's career year by year, setting up for a survival analysis.
-- [Additional Notebooks]: As the study progresses, more phases of the analysis will be added. These phases will delve into (a) adding time-varying and time-invariant predictors to the time-series data and (b) survival analysis to explore how connections with network brokers and other factors influence the career longevity of both women and men movie directors.
+2. Phase_2_Building_Time_Series_Data.ipynb: I create a dataset that tracks each director's career year by year, as well as a dataset that summarizes each director's first career decade.
+3. Phase_3_Constructing_Filmmaker_Network.ipynb: I build dynamic collaboration networks within the film industry from 2000 to 2023 and calculate the yearly brokerage social capital for every creative workers in the network using a 3-year moving window.
+4. Phase_4_Incorporating_Network_Variables_to_Career_Data.ipynb: I map the pre-calculated brokerage scores to directors and their collaborators at the time of their collaboration.
+5. Phase_5_Predicting_Gender_From_Names.ipynb: I use directors' first names from IMDb data and U.S. Social Security data to predict gender.
+
+- [Additional Notebooks]: As the study progresses, more phases of the analysis will be added. These phases will (a) add control variables to directors' career data and (b) survival analysis to explore how connections with network brokers and other factors influence the career longevity of both women and men movie directors.
 
 ## Reproducibility and Data Source
 
