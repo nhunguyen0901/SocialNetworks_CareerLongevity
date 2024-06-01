@@ -209,6 +209,4 @@ WomenLeaders_SocialNetworks.Rproj
 *.pkl
 Calculate_brokerage.ipynb
 Calculate_degree_centrality.ipynb
-Phase_6_Constructing_Control_Variables.ipynb
-Phase_7_Running_Survival_Analysis_in_Python.ipynb
-Phase_7_Running_Survival_Analysis.qmd
+Phase_9_Predicting_Career_Outcomes_with_Social_Capital_Over_Time.qmd

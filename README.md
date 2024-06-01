@@ -15,8 +15,9 @@ To capture these shifts, I've constructed and analyzed 21 sequential network gra
 3. Phase_3_Constructing_Filmmaker_Network.ipynb: I build dynamic collaboration networks within the film industry from 2000 to 2023 and calculate the yearly brokerage social capital for every creative workers in the network using a 3-year moving window.
 4. Phase_4_Incorporating_Network_Variables_to_Career_Data.ipynb: I map the pre-calculated brokerage scores to directors and their collaborators at the time of their collaboration.
 5. Phase_5_Predicting_Gender_From_Names.ipynb: I use directors' first names from IMDb data and U.S. Social Security data to predict gender.
-
-- [Additional Notebooks]: As the study progresses, more phases of the analysis will be added. These phases will (a) add control variables to directors' career data and (b) survival analysis to explore how connections with network brokers and other factors influence the career longevity of both women and men movie directors.
+6. Phase_6_Constructing_Control_Variables.ipynb: I construct a series of control variables that might influence the relationship between social capital and career outcomes. 
+7. Phase_7_Preparing_Data_for_Statistical_Modeling.ipynb: I conduct descriptive statistics, correlation analyses, and variable transformation (log, square root, and winsorization).
+8. Phase_8_Predicting_Career_Outcomes_with_Social_Capital_at_Debut.ipynb: I conduct survival analysis to explore how early collaborators' brokerage social capital influences the likelihood and the time it takes for a director to make a second movie after their debut year.
 
 ## Reproducibility and Data Source
 
